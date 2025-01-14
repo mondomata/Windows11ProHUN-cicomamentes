@@ -3,7 +3,7 @@ A legfrissebb Windows 11 Pro magyar nyelvű telepítő - cicoma mentesen.
 Minden felesleges program kimarad a telepítésből.
 Kimarad a telepítésből a  kötelező Microsoft fiók belépés, és kimarad a TPM biztonsági eszköz vizsgálat is.
 Feladat:
-1. Kell egy legalább 8 GB-os USB tároló (minden le lesz törölve a "pendrájvról", tehát ha van rajta fontos adat, mentsd el máshová).
+1. Kell egy legalább 8 GB-os USB tároló (minden le lesz törölve a "pendrájvról", tehát ha van rajta fontos adat, mentsd el máshová; később persze újra használhatod másra).
 2. Töltsd le a https://go.microsoft.com/fwlink/?linkid=2156295 helyről a Windows Media Cration Tool-t (Windows telepítő készítő eszközt.)
 3. Helyezd a gépbe az USB tárolót, kattints a letöltött fájlra, és haladj végig a beállításokon (az USB tárolód válaszd ki telepítési eszközként). A végeredmény: a program letölti a Windows képfájlt, amiből létrehozható maga a Windows rendszer a gépeden.
 4. Ha elkészült (ez néhány pertől fél óráig terjedhet az internet sebességtől függően), a Fájlkezelőben kattints az USB tárolód ikonjára (általában D:, vagy E: meghajtóként látható és ESD lesz a nevében.
