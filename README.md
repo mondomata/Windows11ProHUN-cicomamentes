@@ -1,7 +1,7 @@
 # Windows11ProHUN-cicomamentes
 A legfrissebb Windows 11 Pro magyar nyelvű telepítő - cicoma mentesen.
 Minden felesleges program kimarad a telepítésből.
-Nem kötelező az online Microsoft fiókos belépés, és nincs TPM biztonsági eszköz vizsgálat, így régebbi gépre is települ.
+Nem kötelező az online Microsoft fiókos belépés, és nincs TPM2.0 biztonsági eszköz vizsgálat, így régebbi gépre is települ.(Ajánlott min.8GB RAM, és min. 60GB tárhely.)
 Feladat:
 1. Kell egy legalább 8 GB-os USB tároló (minden le lesz törölve a "pendrájvról", tehát ha van rajta fontos adat, mentsd el máshová; később persze újra használhatod másra).
 2. Töltsd le a https://go.microsoft.com/fwlink/?linkid=2156295 helyről a Windows Media Cration Tool-t (Windows telepítő készítő eszközt.)
