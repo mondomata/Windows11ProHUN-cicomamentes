@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <unattend xmlns="urn:schemas-microsoft-com:unattend" xmlns:wcm="http://schemas.microsoft.com/WMIConfig/2002/State">
-	<!--https://schneegans.de/windows/unattend-generator/?LanguageMode=Interactive&ProcessorArchitecture=amd64&BypassRequirementsCheck=true&ComputerNameMode=Random&CompactOsMode=Never&TimeZoneMode=Explicit&TimeZone=Central+Europe+Standard+Time&PartitionMode=Interactive&WindowsEditionMode=Generic&WindowsEdition=pro&UserAccountMode=Unattended&AccountName0=Gazdi&AccountPassword0=&AccountGroup0=Administrators&AccountName1=User&AccountPassword1=&AccountGroup1=Users&AccountName2=&AccountName3=&AccountName4=&AutoLogonMode=Own&PasswordExpirationMode=Unlimited&LockoutMode=Default&HideFiles=None&ShowFileExtensions=true&ClassicContextMenu=true&TaskbarSearch=Icon&TaskbarIconsMode=Default&DisableWidgets=true&HideTaskViewButton=true&ShowAllTrayIcons=true&DisableBingResults=true&StartTilesMode=Default&StartPinsMode=Empty&DisableWindowsUpdate=true&DisableUac=true&DisableSac=true&DisableSmartScreen=true&EnableLongPaths=true&HardenSystemDriveAcl=true&AllowPowerShellScripts=true&PreventAutomaticReboot=true&PreventDeviceEncryption=true&HideEdgeFre=true&MakeEdgeUninstallable=true&EffectsMode=Default&WifiMode=Interactive&ExpressSettings=DisableAll&KeysMode=Skip&ColorMode=Default&WallpaperMode=Default&Remove3DViewer=true&RemoveBingSearch=true&RemoveCamera=true&RemoveClipchamp=true&RemoveCopilot=true&RemoveCortana=true&RemoveDevHome=true&RemoveFamily=true&RemoveFeedbackHub=true&RemoveGetHelp=true&RemoveHandwriting=true&RemoveInternetExplorer=true&RemoveMailCalendar=true&RemoveMaps=true&RemoveMathInputPanel=true&RemoveMediaFeatures=true&RemoveMixedReality=true&RemoveZuneVideo=true&RemoveNews=true&RemoveOffice365=true&RemoveOneDrive=true&RemoveOneNote=true&RemoveOneSync=true&RemoveOpenSSHClient=true&RemoveOutlook=true&RemovePaint=true&RemovePaint3D=true&RemovePeople=true&RemovePhotos=true&RemovePowerAutomate=true&RemovePowerShell2=true&RemovePowerShellISE=true&RemoveQuickAssist=true&RemoveRecall=true&RemoveRdpClient=true&RemoveSkype=true&RemoveSolitaire=true&RemoveSpeech=true&RemoveStepsRecorder=true&RemoveStickyNotes=true&RemoveTeams=true&RemoveGetStarted=true&RemoveToDo=true&RemoveVoiceRecorder=true&RemoveWallet=true&RemoveWeather=true&RemoveFaxAndScan=true&RemoveWindowsHello=true&RemoveWindowsMediaPlayer=true&RemoveZuneMusic=true&RemoveWordPad=true&RemoveXboxApps=true&RemoveYourPhone=true&FirstLogonScript0=%40echo+off%0D%0Aecho+M%C3%81R+CSAK+1-2+PERC+T%C3%9CRELEM+KELL%21+%3A%29+%3A%29+%3A%29%0D%0Aecho+Ebben+a+Windows+rendszerben+nincs+el%C5%91re+telep%C3%ADtett+browser%2C+azaz+b%C3%B6ng%C3%A9sz%C5%91%2C+mert+az+Edge+t%C3%BAl+sok+adatodat+haszn%C3%A1ln%C3%A1...%0D%0Aecho+Most+automatikusan+telep%C3%BCl+a+Brave+b%C3%B6ng%C3%A9sz%C5%91.+%0D%0Aecho+A+Brave+a+Chrome-mal+azonos+b%C3%B6ng%C3%A9sz%C5%91+motort+haszn%C3%A1l%2C+de+rekl%C3%A1m+mentes+%28pl.+youtube%2C+spotify%2C+stb%29+%C3%A9s+Google+fi%C3%B3k+n%C3%A9lk%C3%BCl+szinkroniz%C3%A1lhat%C3%B3+a+b%C3%B6ng%C3%A9sz%C5%91+be%C3%A1ll%C3%ADt%C3%A1sokban+az+eszk%C3%B6zeid+k%C3%B6z%C3%B6tt.%0D%0Aecho+Ha+k%C3%A9s%C5%91bb+szeretn%C3%A9d%2C+a+Brave+b%C3%B6ng%C3%A9sz%C5%91vel+let%C3%B6lthetsz+m%C3%A1sikat%2C+pl.+Chrome+b%C3%B6ng%C3%A9sz%C5%91t+is.%0D%0Aecho+Automatikusan+telep%C3%BCl+a+Bitwarden+jelsz%C3%B3kezel%C5%91+is.+Ez+magyar+nyelv%C5%B1%2C+regisztr%C3%A1ci%C3%B3+ut%C3%A1n+ingyenesen+haszn%C3%A1lhat%C3%B3+jelszavak+%C3%A9s+2+faktoros+azonos%C3%ADt%C3%B3k+%28pl.+%C3%BCgyf%C3%A9lkapu+plusz%29+t%C3%A1rol%C3%A1s%C3%A1ra.%0D%0Aecho+A+legbiztons%C3%A1gosabb%21+Szinkroniz%C3%A1lhat%C3%B3+okostelefonnal+is.%0D%0Aecho+FONTOS%21+MINDK%C3%89T+PROGRAM+T%C3%96R%C3%96LHET%C5%90+%28UNINSTALL%29+K%C3%89S%C5%90BB%21%0D%0Aecho+Ha+elolvastad%2C+nyomj+Entert...%0D%0Apause%0D%0A&FirstLogonScriptType0=Cmd&FirstLogonScript1=winget+install+Brave.Brave&FirstLogonScriptType1=Ps1&FirstLogonScript2=winget+install+Bitwarden.Bitwarden&FirstLogonScriptType2=Ps1&RestartExplorer=true&WdacMode=Skip-->
+	<!--https://schneegans.de/windows/unattend-generator/?LanguageMode=Unattended&UILanguage=hu-HU&Locale=hu-HU&Keyboard=0000040e&GeoLocation=109&ProcessorArchitecture=amd64&BypassRequirementsCheck=true&ComputerNameMode=Random&CompactOsMode=Default&TimeZoneMode=Implicit&PartitionMode=Interactive&WindowsEditionMode=Generic&WindowsEdition=pro&UserAccountMode=InteractiveLocal&PasswordExpirationMode=Unlimited&LockoutMode=Default&HideFiles=Hidden&TaskbarSearch=Icon&TaskbarIconsMode=Default&DisableWidgets=true&DisableBingResults=true&StartTilesMode=Default&StartPinsMode=Empty&DisableWindowsUpdate=true&DisableUac=true&DisableSac=true&DisableSmartScreen=true&DisableFastStartup=true&AllowPowerShellScripts=true&MakeEdgeUninstallable=true&EffectsMode=Default&WifiMode=Interactive&ExpressSettings=DisableAll&KeysMode=Skip&ColorMode=Default&WallpaperMode=Default&Remove3DViewer=true&RemoveBingSearch=true&RemoveCamera=true&RemoveClipchamp=true&RemoveCopilot=true&RemoveCortana=true&RemoveDevHome=true&RemoveFamily=true&RemoveFeedbackHub=true&RemoveGetHelp=true&RemoveHandwriting=true&RemoveInternetExplorer=true&RemoveMailCalendar=true&RemoveMaps=true&RemoveMathInputPanel=true&RemoveMediaFeatures=true&RemoveMixedReality=true&RemoveZuneVideo=true&RemoveNews=true&RemoveOffice365=true&RemoveOneDrive=true&RemoveOneNote=true&RemoveOneSync=true&RemoveOpenSSHClient=true&RemoveOutlook=true&RemovePaint=true&RemovePaint3D=true&RemovePeople=true&RemovePowerAutomate=true&RemovePowerShellISE=true&RemoveQuickAssist=true&RemoveRecall=true&RemoveRdpClient=true&RemoveSkype=true&RemoveSnippingTool=true&RemoveSolitaire=true&RemoveSpeech=true&RemoveStepsRecorder=true&RemoveStickyNotes=true&RemoveTeams=true&RemoveGetStarted=true&RemoveToDo=true&RemoveVoiceRecorder=true&RemoveWallet=true&RemoveWeather=true&RemoveFaxAndScan=true&RemoveWindowsHello=true&RemoveWindowsMediaPlayer=true&RemoveZuneMusic=true&RemoveWindowsTerminal=true&RemoveWordPad=true&RemoveXboxApps=true&RemoveYourPhone=true&FirstLogonScript0=%40echo+off%0D%0Aecho+A+telep%C3%ADt%C3%A9s+k%C3%A9sz%21+Gratul%C3%A1lok+az+%C3%BAj+Windows+11+Pro+rendszeredhez.%0D%0Aecho+M%C3%A1r+csak+1-2+sim%C3%ADt%C3%A1s+van+h%C3%A1tra...%0D%0Aecho+A+Microsoft+Edge+b%C3%B6ng%C3%A9sz%C5%91+nem+lett+telep%C3%ADtve%2C+t%C3%BAls%C3%A1gosan+sok+adatot+gy%C5%B1jtene+r%C3%B3lad%2C%0D%0Aecho+ez%C3%A9rt+most+automatikusan+telep%C3%BCl+a+Brave+b%C3%B6ng%C3%A9sz%C5%91+%28ez+Chromium+motoros%2C+mint+a+Chrome%2C%0D%0Aecho+de+nem+gy%C5%B1jt+semmilyen+adatot+R%C3%B3lad%2C+%C3%A9s+rekl%C3%A1m+mentes+%28pl.+a+youtube%2C+spotify%2C+stb%29.%0D%0Aecho+Azut%C3%A1n+elindul+egy+seg%C3%A9dprogram%2C+ahol+egyszerre+t%C3%B6bb+kedvenc+programodat+is+let%C3%B6ltheted.%0D%0Aecho+Semmi+sem+k%C3%B6telez%C5%91%21+T%C3%B6r%C3%B6lheted+k%C3%A9s%C5%91bb+a+Brave-t%2C+ha+let%C3%B6lt%C3%B6tted+m%C3%A1sik+kedvenc+b%C3%B6ng%C3%A9sz%C5%91det%2C%0D%0Aecho+vagy+telep%C3%ADt%C3%A9s+n%C3%A9lk%C3%BCl+bez%C3%A1rhatod+a+seg%C3%A9dprogramot+is.+%0D%0Aecho+A+g%C3%A9p+a+TIED%2C+sem+a+Microsoftnak%2C+sem+m%C3%A1snak+semmi+k%C3%B6ze+hozz%C3%A1%2C+mit+csin%C3%A1lsz+vele.%0D%0Aecho+Enterrel+bez%C3%A1rhatod+ezt+az+ablakot.+%28%C3%89s+dolguk+v%C3%A9gezt%C3%A9vel+azokat+is%2C+amelyek+ezut%C3%A1n+ny%C3%ADlnak+meg.%29%0D%0Apause%0D%0Aexit&FirstLogonScriptType0=Cmd&FirstLogonScript1=winget+install+Brave.Brave%0D%0Aiwr+-useb+https%3A%2F%2Fchristitus.com%2Fwin+%7C+iex&FirstLogonScriptType1=Ps1&WdacMode=Skip-->
 	<settings pass="offlineServicing"></settings>
 	<settings pass="windowsPE">
+		<component name="Microsoft-Windows-International-Core-WinPE" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<SetupUILanguage>
+				<UILanguage>hu-HU</UILanguage>
+			</SetupUILanguage>
+			<InputLocale>040e:0000040e</InputLocale>
+			<SystemLocale>hu-HU</SystemLocale>
+			<UILanguage>hu-HU</UILanguage>
+			<UserLocale>hu-HU</UserLocale>
+		</component>
 		<component name="Microsoft-Windows-Setup" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
-			<ImageInstall>
-				<OSImage>
-					<Compact>false</Compact>
-				</OSImage>
-			</ImageInstall>
 			<UserData>
 				<ProductKey>
 					<Key>VK7JG-NPHTM-C97JM-9MPGT-3V66T</Key>
@@ -58,48 +62,22 @@
 				</RunSynchronousCommand>
 			</RunSynchronous>
 		</component>
-		<component name="Microsoft-Windows-Shell-Setup" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
-			<TimeZone>Central Europe Standard Time</TimeZone>
-		</component>
 	</settings>
 	<settings pass="auditSystem"></settings>
 	<settings pass="auditUser"></settings>
 	<settings pass="oobeSystem">
+		<component name="Microsoft-Windows-International-Core" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
+			<InputLocale>040e:0000040e</InputLocale>
+			<SystemLocale>hu-HU</SystemLocale>
+			<UILanguage>hu-HU</UILanguage>
+			<UserLocale>hu-HU</UserLocale>
+		</component>
 		<component name="Microsoft-Windows-Shell-Setup" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
-			<UserAccounts>
-				<LocalAccounts>
-					<LocalAccount wcm:action="add">
-						<Name>Gazdi</Name>
-						<Group>Administrators</Group>
-						<Password>
-							<Value></Value>
-							<PlainText>true</PlainText>
-						</Password>
-					</LocalAccount>
-					<LocalAccount wcm:action="add">
-						<Name>User</Name>
-						<Group>Users</Group>
-						<Password>
-							<Value></Value>
-							<PlainText>true</PlainText>
-						</Password>
-					</LocalAccount>
-				</LocalAccounts>
-			</UserAccounts>
-			<AutoLogon>
-				<Username>Gazdi</Username>
-				<Enabled>true</Enabled>
-				<LogonCount>1</LogonCount>
-				<Password>
-					<Value></Value>
-					<PlainText>true</PlainText>
-				</Password>
-			</AutoLogon>
 			<OOBE>
 				<ProtectYourPC>3</ProtectYourPC>
 				<HideEULAPage>true</HideEULAPage>
 				<HideWirelessSetupInOOBE>false</HideWirelessSetupInOOBE>
-				<HideOnlineAccountScreens>false</HideOnlineAccountScreens>
+				<HideOnlineAccountScreens>true</HideOnlineAccountScreens>
 			</OOBE>
 			<FirstLogonCommands>
 				<SynchronousCommand wcm:action="add">
@@ -155,10 +133,10 @@ $selectors = @(
 	'Microsoft.Paint';
 	'Microsoft.MSPaint';
 	'Microsoft.People';
-	'Microsoft.Windows.Photos';
 	'Microsoft.PowerAutomateDesktop';
 	'MicrosoftCorporationII.QuickAssist';
 	'Microsoft.SkypeApp';
+	'Microsoft.ScreenSketch';
 	'Microsoft.MicrosoftSolitaireCollection';
 	'Microsoft.MicrosoftStickyNotes';
 	'MicrosoftTeams';
@@ -167,6 +145,7 @@ $selectors = @(
 	'Microsoft.WindowsSoundRecorder';
 	'Microsoft.Wallet';
 	'Microsoft.BingWeather';
+	'Microsoft.WindowsTerminal';
 	'Microsoft.Xbox.TCUI';
 	'Microsoft.XboxApp';
 	'Microsoft.XboxGameOverlay';
@@ -229,6 +208,7 @@ $selectors = @(
 	'Microsoft.Windows.MSPaint';
 	'Microsoft.Windows.PowerShell.ISE';
 	'App.Support.QuickAssist';
+	'Microsoft.Windows.SnippingTool';
 	'Language.Speech';
 	'Language.TextToSpeech';
 	'App.StepsRecorder';
@@ -284,9 +264,9 @@ $logfile = 'C:\Windows\Setup\Scripts\RemoveCapabilities.log';
 		<File path="C:\Windows\Setup\Scripts\RemoveFeatures.ps1" transformation="Text">
 $selectors = @(
 	'MediaPlayback';
-	'MicrosoftWindowsPowerShellV2Root';
 	'Microsoft-RemoteDesktopConnection';
 	'Recall';
+	'Microsoft-SnippingTool';
 );
 $getCommand = {
   Get-WindowsOptionalFeature -Online | Where-Object -Property 'State' -NotIn -Value @(
@@ -396,133 +376,6 @@ Set-ItemProperty @params -Name 'PauseUpdatesExpiryTime' -Value $end;
 	&lt;/Actions&gt;
 &lt;/Task&gt;
 		</File>
-		<File path="C:\Windows\Setup\Scripts\ShowAllTrayIcons.ps1" transformation="Text">
-if( [System.Environment]::OSVersion.Version.Build -lt 20000 ) {
-	# Windows 10
-	Set-ItemProperty -LiteralPath 'Registry::HKU\DefaultUser\Software\Microsoft\Windows\CurrentVersion\Explorer' -Name 'EnableAutoTray' -Type 'DWord' -Value 0 -Force;
-} else {
-	# Windows 11
-	Register-ScheduledTask -TaskName 'ShowAllTrayIcons' -Xml $(
-		Get-Content -LiteralPath "C:\Windows\Setup\Scripts\ShowAllTrayIcons.xml" -Raw;
-	);
-}
-		</File>
-		<File path="C:\Windows\Setup\Scripts\ShowAllTrayIcons.xml" transformation="Text">
-&lt;Task version="1.2" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task"&gt;
-	&lt;Triggers&gt;
-		&lt;LogonTrigger&gt;
-			&lt;Repetition&gt;
-				&lt;Interval&gt;PT1M&lt;/Interval&gt;
-				&lt;StopAtDurationEnd&gt;false&lt;/StopAtDurationEnd&gt;
-			&lt;/Repetition&gt;
-			&lt;Enabled&gt;true&lt;/Enabled&gt;
-		&lt;/LogonTrigger&gt;
-	&lt;/Triggers&gt;
-	&lt;Principals&gt;
-		&lt;Principal id="Author"&gt;
-			&lt;GroupId&gt;S-1-5-32-545&lt;/GroupId&gt;
-			&lt;RunLevel&gt;LeastPrivilege&lt;/RunLevel&gt;
-		&lt;/Principal&gt;
-	&lt;/Principals&gt;
-	&lt;Settings&gt;
-		&lt;MultipleInstancesPolicy&gt;IgnoreNew&lt;/MultipleInstancesPolicy&gt;
-		&lt;DisallowStartIfOnBatteries&gt;true&lt;/DisallowStartIfOnBatteries&gt;
-		&lt;StopIfGoingOnBatteries&gt;true&lt;/StopIfGoingOnBatteries&gt;
-		&lt;AllowHardTerminate&gt;true&lt;/AllowHardTerminate&gt;
-		&lt;StartWhenAvailable&gt;false&lt;/StartWhenAvailable&gt;
-		&lt;RunOnlyIfNetworkAvailable&gt;false&lt;/RunOnlyIfNetworkAvailable&gt;
-		&lt;IdleSettings&gt;
-			&lt;StopOnIdleEnd&gt;true&lt;/StopOnIdleEnd&gt;
-			&lt;RestartOnIdle&gt;false&lt;/RestartOnIdle&gt;
-		&lt;/IdleSettings&gt;
-		&lt;AllowStartOnDemand&gt;true&lt;/AllowStartOnDemand&gt;
-		&lt;Enabled&gt;true&lt;/Enabled&gt;
-		&lt;Hidden&gt;false&lt;/Hidden&gt;
-		&lt;RunOnlyIfIdle&gt;false&lt;/RunOnlyIfIdle&gt;
-		&lt;WakeToRun&gt;false&lt;/WakeToRun&gt;
-		&lt;ExecutionTimeLimit&gt;PT72H&lt;/ExecutionTimeLimit&gt;
-		&lt;Priority&gt;7&lt;/Priority&gt;
-	&lt;/Settings&gt;
-	&lt;Actions Context="Author"&gt;
-		&lt;Exec&gt;
-			&lt;Command&gt;C:\Windows\System32\wscript.exe&lt;/Command&gt;
-			&lt;Arguments&gt;C:\Windows\Setup\Scripts\ShowAllTrayIcons.vbs&lt;/Arguments&gt;
-		&lt;/Exec&gt;
-	&lt;/Actions&gt;
-&lt;/Task&gt;
-		</File>
-		<File path="C:\Windows\Setup\Scripts\ShowAllTrayIcons.vbs" transformation="Text">
-HKCU = &amp;H80000001
-key = "Control Panel\NotifyIconSettings"
-Set reg = GetObject("winmgmts://./root/default:StdRegProv")
-If reg.EnumKey(HKCU, key, names) = 0 Then
-	If Not IsNull(names) Then
-		For Each name In names
-			reg.SetDWORDValue HKCU, key + "\" + name, "IsPromoted", 1
-		Next
-	End If
-End If
-		</File>
-		<File path="C:\Windows\Setup\Scripts\MoveActiveHours.vbs" transformation="Text">
-HKLM = &amp;H80000002
-key = "SOFTWARE\Microsoft\WindowsUpdate\UX\Settings"
-Set reg = GetObject("winmgmts://./root/default:StdRegProv")
-current = Hour(Now)
-reg.SetDWORDValue HKLM, key, "ActiveHoursStart", ( current + 23 ) Mod 24
-reg.SetDWORDValue HKLM, key, "ActiveHoursEnd", ( current + 11 ) Mod 24
-reg.SetDWORDValue HKLM, key, "SmartActiveHoursState", 2
-		</File>
-		<File path="C:\Windows\Setup\Scripts\MoveActiveHours.xml" transformation="Text">
-&lt;Task version="1.2" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task"&gt;
-	&lt;Triggers&gt;
-		&lt;BootTrigger&gt;
-			&lt;Repetition&gt;
-				&lt;Interval&gt;PT4H&lt;/Interval&gt;
-				&lt;StopAtDurationEnd&gt;false&lt;/StopAtDurationEnd&gt;
-			&lt;/Repetition&gt;
-			&lt;Enabled&gt;true&lt;/Enabled&gt;
-		&lt;/BootTrigger&gt;
-		&lt;RegistrationTrigger&gt;
-			&lt;Repetition&gt;
-				&lt;Interval&gt;PT4H&lt;/Interval&gt;
-				&lt;StopAtDurationEnd&gt;false&lt;/StopAtDurationEnd&gt;
-			&lt;/Repetition&gt;
-			&lt;Enabled&gt;true&lt;/Enabled&gt;
-		&lt;/RegistrationTrigger&gt;
-	&lt;/Triggers&gt;
-	&lt;Principals&gt;
-		&lt;Principal id="Author"&gt;
-			&lt;UserId&gt;S-1-5-19&lt;/UserId&gt;
-			&lt;RunLevel&gt;LeastPrivilege&lt;/RunLevel&gt;
-		&lt;/Principal&gt;
-	&lt;/Principals&gt;
-	&lt;Settings&gt;
-		&lt;MultipleInstancesPolicy&gt;IgnoreNew&lt;/MultipleInstancesPolicy&gt;
-		&lt;DisallowStartIfOnBatteries&gt;true&lt;/DisallowStartIfOnBatteries&gt;
-		&lt;StopIfGoingOnBatteries&gt;true&lt;/StopIfGoingOnBatteries&gt;
-		&lt;AllowHardTerminate&gt;true&lt;/AllowHardTerminate&gt;
-		&lt;StartWhenAvailable&gt;false&lt;/StartWhenAvailable&gt;
-		&lt;RunOnlyIfNetworkAvailable&gt;false&lt;/RunOnlyIfNetworkAvailable&gt;
-		&lt;IdleSettings&gt;
-			&lt;StopOnIdleEnd&gt;true&lt;/StopOnIdleEnd&gt;
-			&lt;RestartOnIdle&gt;false&lt;/RestartOnIdle&gt;
-		&lt;/IdleSettings&gt;
-		&lt;AllowStartOnDemand&gt;true&lt;/AllowStartOnDemand&gt;
-		&lt;Enabled&gt;true&lt;/Enabled&gt;
-		&lt;Hidden&gt;false&lt;/Hidden&gt;
-		&lt;RunOnlyIfIdle&gt;false&lt;/RunOnlyIfIdle&gt;
-		&lt;WakeToRun&gt;false&lt;/WakeToRun&gt;
-		&lt;ExecutionTimeLimit&gt;PT72H&lt;/ExecutionTimeLimit&gt;
-		&lt;Priority&gt;7&lt;/Priority&gt;
-	&lt;/Settings&gt;
-	&lt;Actions Context="Author"&gt;
-		&lt;Exec&gt;
-			&lt;Command&gt;C:\Windows\System32\wscript.exe&lt;/Command&gt;
-			&lt;Arguments&gt;C:\Windows\Setup\Scripts\MoveActiveHours.vbs&lt;/Arguments&gt;
-		&lt;/Exec&gt;
-	&lt;/Actions&gt;
-&lt;/Task&gt;
-		</File>
 		<File path="C:\Windows\Setup\Scripts\MakeEdgeUninstallable.ps1" transformation="Text">
 $ErrorActionPreference = 'Stop';
 &amp; {
@@ -554,22 +407,22 @@ Set-ItemProperty -LiteralPath $key -Name 'ConfigureStartPins' -Value $json -Type
 		</File>
 		<File path="C:\Windows\Setup\Scripts\unattend-01.cmd" transformation="Text">
 @echo off
-echo M&#xC1;R CSAK 1-2 PERC T&#xDC;RELEM KELL! :) :) :)
-echo Ebben a Windows rendszerben nincs el&#x151;re telep&#xED;tett browser, azaz b&#xF6;ng&#xE9;sz&#x151;, mert az Edge t&#xFA;l sok adatodat haszn&#xE1;ln&#xE1;...
-echo Most automatikusan telep&#xFC;l a Brave b&#xF6;ng&#xE9;sz&#x151;. 
-echo A Brave a Chrome-mal azonos b&#xF6;ng&#xE9;sz&#x151; motort haszn&#xE1;l, de rekl&#xE1;m mentes (pl. youtube, spotify, stb) &#xE9;s Google fi&#xF3;k n&#xE9;lk&#xFC;l szinkroniz&#xE1;lhat&#xF3; a b&#xF6;ng&#xE9;sz&#x151; be&#xE1;ll&#xED;t&#xE1;sokban az eszk&#xF6;zeid k&#xF6;z&#xF6;tt.
-echo Ha k&#xE9;s&#x151;bb szeretn&#xE9;d, a Brave b&#xF6;ng&#xE9;sz&#x151;vel let&#xF6;lthetsz m&#xE1;sikat, pl. Chrome b&#xF6;ng&#xE9;sz&#x151;t is.
-echo Automatikusan telep&#xFC;l a Bitwarden jelsz&#xF3;kezel&#x151; is. Ez magyar nyelv&#x171;, regisztr&#xE1;ci&#xF3; ut&#xE1;n ingyenesen haszn&#xE1;lhat&#xF3; jelszavak &#xE9;s 2 faktoros azonos&#xED;t&#xF3;k (pl. &#xFC;gyf&#xE9;lkapu plusz) t&#xE1;rol&#xE1;s&#xE1;ra.
-echo A legbiztons&#xE1;gosabb! Szinkroniz&#xE1;lhat&#xF3; okostelefonnal is.
-echo FONTOS! MINDK&#xC9;T PROGRAM T&#xD6;R&#xD6;LHET&#x150; (UNINSTALL) K&#xC9;S&#x150;BB!
-echo Ha elolvastad, nyomj Entert...
+echo A telep&#xED;t&#xE9;s k&#xE9;sz! Gratul&#xE1;lok az &#xFA;j Windows 11 Pro rendszeredhez.
+echo M&#xE1;r csak 1-2 sim&#xED;t&#xE1;s van h&#xE1;tra...
+echo A Microsoft Edge b&#xF6;ng&#xE9;sz&#x151; nem lett telep&#xED;tve, t&#xFA;ls&#xE1;gosan sok adatot gy&#x171;jtene r&#xF3;lad,
+echo ez&#xE9;rt most automatikusan telep&#xFC;l a Brave b&#xF6;ng&#xE9;sz&#x151; (ez Chromium motoros, mint a Chrome,
+echo de nem gy&#x171;jt semmilyen adatot R&#xF3;lad, &#xE9;s rekl&#xE1;m mentes (pl. a youtube, spotify, stb).
+echo Azut&#xE1;n elindul egy seg&#xE9;dprogram, ahol egyszerre t&#xF6;bb kedvenc programodat is let&#xF6;ltheted.
+echo Semmi sem k&#xF6;telez&#x151;! T&#xF6;r&#xF6;lheted k&#xE9;s&#x151;bb a Brave-t, ha let&#xF6;lt&#xF6;tted m&#xE1;sik kedvenc b&#xF6;ng&#xE9;sz&#x151;det,
+echo vagy telep&#xED;t&#xE9;s n&#xE9;lk&#xFC;l bez&#xE1;rhatod a seg&#xE9;dprogramot is. 
+echo A g&#xE9;p a TIED, sem a Microsoftnak, sem m&#xE1;snak semmi k&#xF6;ze hozz&#xE1;, mit csin&#xE1;lsz vele.
+echo Enterrel bez&#xE1;rhatod ezt az ablakot. (&#xC9;s dolguk v&#xE9;gezt&#xE9;vel azokat is, amelyek ezut&#xE1;n ny&#xED;lnak meg.)
 pause
+exit
 		</File>
 		<File path="C:\Windows\Setup\Scripts\unattend-02.ps1" transformation="Text">
 winget install Brave.Brave
-		</File>
-		<File path="C:\Windows\Setup\Scripts\unattend-03.ps1" transformation="Text">
-winget install Bitwarden.Bitwarden
+iwr -useb https://christitus.com/win | iex
 		</File>
 		<File path="C:\Windows\Setup\Scripts\Specialize.ps1" transformation="Text">
 $scripts = @(
@@ -617,29 +470,13 @@ $scripts = @(
 		reg.exe add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v EnableLUA /t REG_DWORD /d 0 /f
 	};
 	{
-		reg.exe add "HKLM\SYSTEM\CurrentControlSet\Control\FileSystem" /v LongPathsEnabled /t REG_DWORD /d 1 /f
-	};
-	{
-		icacls.exe C:\ /remove:g "*S-1-5-11"
-	};
-	{
 		Set-ExecutionPolicy -Scope 'LocalMachine' -ExecutionPolicy 'RemoteSigned' -Force;
 	};
 	{
-		reg.exe add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v AUOptions /t REG_DWORD /d 4 /f;
-		reg.exe add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v NoAutoRebootWithLoggedOnUsers /t REG_DWORD /d 1 /f;
-	};
-	{
-		Register-ScheduledTask -TaskName 'MoveActiveHours' -Xml $( Get-Content -LiteralPath 'C:\Windows\Setup\Scripts\MoveActiveHours.xml' -Raw );
+		reg.exe add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Power" /v HiberbootEnabled /t REG_DWORD /d 0 /f;
 	};
 	{
 		reg.exe add "HKLM\SOFTWARE\Policies\Microsoft\Dsh" /v AllowNewsAndInterests /t REG_DWORD /d 0 /f;
-	};
-	{
-		reg.exe add "HKLM\SYSTEM\CurrentControlSet\Control\BitLocker" /v "PreventDeviceEncryption" /t REG_DWORD /d 1 /f;
-	};
-	{
-		reg.exe add "HKLM\SOFTWARE\Policies\Microsoft\Edge" /v HideFirstRunExperience /t REG_DWORD /d 1 /f;
 	};
 	{
 		Get-Content -LiteralPath 'C:\Windows\Setup\Scripts\MakeEdgeUninstallable.ps1' -Raw | Invoke-Expression;
@@ -665,21 +502,7 @@ $scripts = @(
 		Get-AppxPackage -Name 'Microsoft.Windows.Ai.Copilot.Provider' | Remove-AppxPackage;
 	};
 	{
-		$params = @{
-			Path = 'Registry::HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32';
-			ErrorAction = 'SilentlyContinue';
-			Force = $true;
-		};
-		New-Item @params;
-		Set-ItemProperty @params -Name '(Default)' -Value '' -Type 'String';
-	};
-	{
 		Set-ItemProperty -LiteralPath 'Registry::HKCU\Software\Microsoft\Windows\CurrentVersion\Search' -Name 'SearchboxTaskbarMode' -Type 'DWord' -Value 1;
-	};
-	{
-		Get-Process -Name 'explorer' -ErrorAction 'SilentlyContinue' | Where-Object -FilterScript {
-			$_.SessionId -eq ( Get-Process -Id $PID ).SessionId;
-		} | Stop-Process -Force;
 	};
 );
 
@@ -703,21 +526,6 @@ $scripts = @(
 	};
 	{
 		reg.exe add "HKU\DefaultUser\Software\Microsoft\Windows\CurrentVersion\GameDVR" /v AppCaptureEnabled /t REG_DWORD /d 0 /f;
-	};
-	{
-		reg.exe add "HKU\DefaultUser\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "HideFileExt" /t REG_DWORD /d 0 /f;
-	};
-	{
-		reg.exe add "HKU\DefaultUser\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "Hidden" /t REG_DWORD /d 1 /f;
-	};
-	{
-		reg.exe add "HKU\DefaultUser\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v "ShowSuperHidden" /t REG_DWORD /d 1 /f;
-	};
-	{
-		Get-Content -LiteralPath 'C:\Windows\Setup\Scripts\ShowAllTrayIcons.ps1' -Raw | Invoke-Expression;
-	};
-	{
-		reg.exe add "HKU\DefaultUser\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v ShowTaskViewButton /t REG_DWORD /d 0 /f;
 	};
 	{
 		reg.exe add "HKU\DefaultUser\Software\Microsoft\Edge\SmartScreenEnabled" /ve /t REG_DWORD /d 0 /f;
@@ -746,16 +554,10 @@ $scripts = @(
 		<File path="C:\Windows\Setup\Scripts\FirstLogon.ps1" transformation="Text">
 $scripts = @(
 	{
-		Set-ItemProperty -LiteralPath 'Registry::HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon' -Name 'AutoLogonCount' -Type 'DWord' -Force -Value 0;
-	};
-	{
 		C:\Windows\Setup\Scripts\unattend-01.cmd;
 	};
 	{
 		Get-Content -LiteralPath 'C:\Windows\Setup\Scripts\unattend-02.ps1' -Raw | Invoke-Expression;
-	};
-	{
-		Get-Content -LiteralPath 'C:\Windows\Setup\Scripts\unattend-03.ps1' -Raw | Invoke-Expression;
 	};
 );
 
