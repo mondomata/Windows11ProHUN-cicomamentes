@@ -9,6 +9,6 @@ Feladat:
 4. Ha elkészült (ez néhány pertől fél óráig terjedhet az internet és az USB tár sebességtől függően), a Fájlkezelőben kattints az USB tárolód ikonjára (általában D:, vagy E: meghajtóként látható és ESD lesz a nevében.
 5. Ezután másold az innen letöltött xml fájlt az USB tárhely felső könyvtárába (ahol a setup.exe is van).
 6. Az USB tárolót csatlakoztasd arra gépre, amelyikre telepíteni szeretnéd a Windowst.
-7. Indítsd el (vagy ha be van kapcsolva, indítsd újra) a gépet, ha megjelenik a gépgyártó logója (pl. HP, Lenovo, Asus, stb), nyomogasd folyamat a BOOT menü indító billenytűt. Pl. Esc, F10, F9, stb., ha nem tudod, keress rá a neten.
+7. Indítsd el (vagy ha be van kapcsolva, indítsd újra) a gépet, ha megjelenik a gépgyártó logója (pl. MSI, HP, Lenovo, Asus, stb), nyomd meg a BOOT menü indító billenytűt. Pl. Esc, F10, F9, stb., ha nem tudod, keress rá a neten, gyártónként eltérő lehet.
 8. A boot menüben válaszd ki az USB-t, majd hagyd jóvá (Enter).
 9. Ha mindent jól csináltál, a szokásos Windows telepítés hamarosan elindul az USB-ről.
