@@ -14,9 +14,7 @@
 		</component>
 		<component name="Microsoft-Windows-Setup" processorArchitecture="amd64" publicKeyToken="31bf3856ad364e35" language="neutral" versionScope="nonSxS">
 			<UserData>
-				<ProductKey>
-					
-				</ProductKey>
+		<Property Name="AUTOACTIVATE" Value="0" />
 				<AcceptEula>true</AcceptEula>
 			</UserData>
 			<UseConfigurationSet>false</UseConfigurationSet>
