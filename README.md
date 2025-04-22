@@ -19,4 +19,4 @@ Feladatod:
    <tt>Mi ebben a jó?!</tt>
     <tt>A telepítés konfiguráló xml fájl automatikusan törli az összes felesleges és reklámozó/nyomkövető gyári Windows progit, cserébe telepíti automatikusan az UnigetUI programot, amelyet a Windows rendszer telepítése után nyomban elindíthatsz, ezzel bármilyen kedvenc programodat gyorsan, biztonságosan telepítheded.</tt>
     <hr>
-🖍️Bónusz. Ha tényleg arra vágysz, hogy jól hangolt, reklám mentes és felesleges, nyomkövető programok nélküli Windowsod legyen, keresd itt a githubon a zseniális <b>TidyOS</b> programcsomagot, amivel meglévőWindows rendszered is gyönyörűen rendbe rakhatod.<sup>https://github.com/builtbybel/TidyOS/releases</sup> 👌👌👌
+🖍️Bónusz. Ha tényleg arra vágysz, hogy jól hangolt, reklám mentes és felesleges, nyomkövető programok nélküli Windowsod legyen, keresd itt a githubon a zseniális <b>TidyOS</b> programcsomagot, amivel meglévő Windows rendszered is gyönyörűen rendbe rakhatod.<sup>https://github.com/builtbybel/TidyOS/releases</sup> 👌👌👌
