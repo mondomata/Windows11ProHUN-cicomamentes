@@ -1,8 +1,11 @@
 # Windows11ProHUN-cicomamentes
 Windows 11 Pro magyar nyelvű telepítő - cicoma mentesen.
+
 <code><b>Minden felesleges program (bloatware/haszontalan, reklám, stb) kimarad a telepítésből.
-Nem kötelező az online Microsoft fiókos belépés, és nincs TPM2.0 biztonsági eszköz vizsgálat, így régebbi gépre is települ.(Ajánlott min.8GB RAM, és min. 50GB szabad tárhely.)</b></code>
-Feladat:
+Nem kötelező az online Microsoft fiókos belépés, nincs secure boot, nincs TPM2.0 biztonsági eszköz vizsgálat, így régebbi gépre is települ akár a legújabb Windows 11 Pro is.
+(Ajánlott min.8GB RAM, és min. 60 GB szabad tárhely.)</b></code>
+
+Feladatod:
 1. Kell egy legalább 8 GB-os USB tároló (minden le lesz törölve a "pendrájvról", tehát ha van rajta fontos adat, mentsd el máshová; később persze újra használhatod másra).
 2. Töltsd le a https://go.microsoft.com/fwlink/?linkid=2156295 helyről a Windows Media Cration Tool-t (Windows telepítő eszközt.)
 3. Helyezd a gépbe az USB tárolót,  és a Media Creation Toolban haladj végig a beállításokon (az USB tárolód válaszd ki telepítési eszközként). A végeredmény: a program letölti az USB tárra a Windows ISO képfájlt, amiből létrehozható maga a Windows rendszer a gépeden. (Az ISO kb 6GB lesz, de csak a töredékét használjuk!)
