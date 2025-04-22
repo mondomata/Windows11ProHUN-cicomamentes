@@ -1,5 +1,5 @@
 # Windows11ProHUN-cicomamentes
-Windows 11 Pro magyar nyelvű telepítő - cicoma mentesen.
+Windows 11 Pro magyar nyelvű telepítő - cicoma mentesen. (Csak eredeti MS Windows 11 Pro telepítőkészletet - ISO-t - használj!)
 
 <code><b>Minden felesleges program (bloatware/haszontalan, reklám, stb) kimarad a telepítésből.
 Nem kötelező az online Microsoft fiókos belépés, nincs secure boot, nincs TPM2.0 biztonsági eszköz vizsgálat, így régebbi gépre is települ akár a legújabb Windows 11 Pro is.
