@@ -12,3 +12,6 @@ Feladat:
 7. Indítsd újra a gépet, ha megjelenik a gépgyártó logója (pl. MSI, HP, Lenovo, Asus, stb), nyomd meg a <tt>BOOT menü indító billenytű</tt>t. Pl. <kbd>Esc</kbd>, <kbd>F10</kbd>, <kbd>F9</kbd>, stb., ha nem tudod, keress rá a neten, gyártónként eltérő lehet.
 8. A boot menüben válaszd ki az USB-t, majd hagyd jóvá (<kbd>Enter</kbd>).
 9. Ha mindent jól csináltál, a szokásos Windows telepítés hamarosan elindul az USB-ről.
+<hr>
+   <tt>Mi ebben a jó?!</tt>
+    <tt>A telepítés konfiguráló xml fájl automatikusan törli az összes felesleges és reklámozó/nyomkövető gyári Windows progit, cserébe telepíti automatikusan az UnigetUI programot, amelyet a Windows rendszer telepítése után nyomban elindíthatsz, ezzel bármilyen kedvenc programodat gyorsan, biztonságosan telepítheded.</tt>
