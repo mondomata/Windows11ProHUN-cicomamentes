@@ -19,7 +19,7 @@ Feladatod:
    <tt>Mi ebben a jó?!</tt>
     <tt>A telepítés konfiguráló xml fájl automatikusan törli az összes felesleges és reklámozó/nyomkövető gyári Windows progit, cserébe telepíti automatikusan az UnigetUI programot, amelyet a Windows rendszer telepítése után nyomban elindíthatsz, ezzel bármilyen kedvenc programodat gyorsan, biztonságosan telepítheded.</tt>
 
-Másik módszer (haladóknak):
+🛠️🛠️🛠️💕Másik módszer (haladóknak):
    Powershell parancsorban (jobb klikk a Start ikonon, majd Powershell, vagy Terminál választás a felugró listán) indítsd el ezt (kód bemásolása és Enter a Powershell-ben):
 
    <code>irm "https://github.com/memstechtips/WIMUtil/raw/main/src/WIMUtil.ps1" | iex</code>
