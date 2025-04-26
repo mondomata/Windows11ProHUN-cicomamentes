@@ -21,6 +21,6 @@ Feladatod:
 
 2. módszer (haladóknak):
    Powershell parancsorban indítsd el ezt: <code>irm "https://github.com/memstechtips/WIMUtil/raw/main/src/WIMUtil.ps1" | iex</code>
-   Haladj végig a parancsokon (angol), a megfelelő helyen illeszd be az innen letöltött autounnatend.xml fájlt, majd a programmal létrehozott ISO fájlt csatlakoztatva a rendszerre, futtasd a legfelső könyvtárban lévő setup.exe-t, vagy az ISO fájlt írd ki Windows installernek legalább 8 GB-os USB tárolóra (Balena Eatcher-rel!) vagy DVD-re. 
+   Haladj végig a parancsokon (angol), a megfelelő helyen illeszd be az innen letöltött <tt>autounattend.xml</tt> fájlt, majd a programmal létrehozott ISO fájlt csatlakoztatva a rendszerre, futtasd a legfelső könyvtárban lévő setup.exe-t, vagy az ISO fájlt írd ki Windows installernek legalább 8 GB-os USB tárolóra (Balena Eatcher-rel!) vagy DVD-re. 
     <hr>
 🖍️Bónusz. Ha tényleg arra vágysz, hogy jól hangolt, reklám mentes és felesleges, nyomkövető programok nélküli Windowsod legyen, keresd itt a githubon a zseniális <b>TidyOS</b> programcsomagot, amivel meglévő Windows rendszered is gyönyörűen rendbe rakhatod.<sup>https://github.com/builtbybel/TidyOS/releases</sup> 👌👌👌
